@@ -2,7 +2,7 @@
   "name": "reactCardWeb",
   "homepage": "https://aryaabhii.github.io/reactCardApp",
   "version": "0.1.0",
-  "private": true,https://github.com/aryaabhii/reactCardApp/blob/main/package.json
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
