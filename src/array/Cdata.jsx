@@ -1,5 +1,5 @@
 const wallpaperName = "Wallpaper";
-const WallpaperTitle = "Free Hacker Wallpaper";
+const WallpaperTitle = "Free Hacker Wallpapers";
 
 const Cdata = [
     {
